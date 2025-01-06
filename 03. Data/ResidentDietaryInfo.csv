@@ -1,0 +1,206 @@
+﻿DietaryID,ResidentID,DietaryType,InfoDetail
+1,1,Preference,Vegetarian
+2,2,Preference,Vegan
+3,3,Preference,Gluten-Free
+4,4,Allergy,Lactose Intolerant
+5,5,Preference,Dairy-Free
+6,6,Allergy,Nut Allergy
+7,7,Preference,Low-Carb
+8,8,Preference,Paleo
+9,9,Allergy,Gluten Allergy
+10,10,Preference,Keto
+11,11,Preference,Pescatarian
+12,12,Allergy,Egg Allergy
+13,13,Preference,Sugar-Free
+14,14,Preference,Whole30
+15,15,Allergy,Soy Allergy
+16,16,Preference,High-Protein
+17,17,Preference,Low-Sodium
+18,18,Allergy,Shellfish Allergy
+19,19,Preference,Low-Fat
+20,20,Preference,Plant-Based
+21,21,Allergy,Wheat Allergy
+22,22,Preference,Raw
+23,23,Preference,Organic
+24,24,Allergy,Dairy Allergy
+25,25,Preference,Mediterranean Diet
+26,26,Preference,Flexitarian
+27,27,Allergy,Peanut Allergy
+28,28,Preference,Low-Calorie
+29,29,Preference,DASH Diet
+30,30,Allergy,Fish Allergy
+31,31,Preference,Anti-Inflammatory
+32,32,Allergy,Soy Intolerance
+33,33,Preference,FODMAP
+34,34,Allergy,Egg Intolerance
+35,35,Preference,Low-Glycemic
+36,36,Preference,Clean Eating
+37,37,Allergy,Corn Allergy
+38,38,Preference,South Beach Diet
+39,39,Preference,Vegan Keto
+40,40,Preference,Low-Cholesterol
+41,41,Allergy,Milk Allergy
+42,42,Preference,Ayurvedic Diet
+43,43,Allergy,Wheat Intolerance
+44,44,Preference,Pegan Diet
+45,45,Preference,Flexitarian
+46,46,Allergy,Nut Intolerance
+47,47,Preference,Slow Carb Diet
+48,48,Preference,Intermittent Fasting
+49,49,Allergy,Gluten Intolerance
+50,50,Preference, Gluten-Free
+51,51,Preference, Vegan
+52,52,Allergy, Nut Allergy
+53,53,Preference, Low-Carb
+54,54,Allergy, Dairy Allergy
+55,55,Preference, Paleo
+56,56,Preference, Keto
+57,57,Allergy, Shellfish Allergy
+58,58,Preference, Whole30
+59,59,Preference, Low-Fat
+60,60,Allergy, Gluten Intolerance
+61,61,Preference, Sugar-Free
+62,62,Preference, Mediterranean Diet
+63,63,Allergy, Soy Allergy
+64,64,Preference, High-Protein
+65,65,Preference, Vegan
+66,66,Allergy, Lactose Intolerant
+67,67,Preference, Vegetarian
+68,68,Allergy, Peanut Allergy
+69,69,Preference, Gluten-Free
+70,70,Allergy, Egg Allergy
+71,71,Preference, Dairy-Free
+72,72,Preference, Low-Sodium
+73,73,Allergy, Nut Intolerance
+74,74,Preference, Low-Glycemic
+75,75,Allergy, Wheat Allergy
+76,76,Preference, Sugar-Free
+77,77,Preference, High-Fiber
+78,78,Allergy, Lactose Intolerant
+79,79,Preference, Whole30
+80,80,Allergy, Egg Allergy
+81,81,Preference, Paleo
+82,82,Preference, Low-Fat
+83,83,Allergy, Soy Intolerance
+84,84,Preference, Gluten-Free
+85,85,Allergy, Dairy Allergy
+86,86,Preference, Keto
+87,87,Allergy, Nut Allergy
+88,88,Preference, Plant-Based
+89,89,Preference, Flexitarian
+90,90,Allergy, Peanut Allergy
+91,91,Preference, Low-Sugar
+92,92,Allergy, Fish Allergy
+93,93,Preference, Mediterranean Diet
+94,94,Allergy, Gluten Allergy
+95,95,Preference, Vegan
+96,96,Preference, Dairy-Free
+97,97,Allergy, Egg Intolerance
+98,98,Preference, Sugar-Free
+99,99,Allergy, Soy Allergy
+100,100,Preference, High-Protein
+101,101,Preference, Low-Fat
+102,102,Allergy, Lactose Intolerant
+103,103,Allergy, Shellfish Allergy
+104,104,Preference, Dairy-Free
+105,105,Preference, Low-Carb
+106,106,Allergy, Nut Intolerance
+107,107,Preference, Sugar-Free
+108,108,Preference, Paleo
+109,109,Preference, Vegetarian
+110,110,Allergy, Gluten Intolerance
+111,111,Preference, Plant-Based
+112,112,Allergy, Egg Allergy
+113,113,Preference, Keto
+114,114,Preference, Flexitarian
+115,115,Allergy, Lactose Intolerant
+116,116,Preference, Organic
+117,117,Preference, Gluten-Free
+118,118,Allergy, Soy Allergy
+119,119,Preference, Low-Sodium
+120,120,Preference, High-Protein
+121,121,Preference, Low-Fat
+122,122,Allergy, Nut Allergy
+123,123,Preference, Vegan
+124,124,Preference, Paleo
+125,125,Allergy, Dairy Allergy
+126,126,Preference, Low-Glycemic
+127,127,Allergy, Wheat Intolerance
+128,128,Preference, Anti-Inflammatory
+129,129,Preference, Mediterranean Diet
+130,130,Allergy, Lactose Intolerant
+131,131,Preference, Sugar-Free
+132,132,Preference, Low-Carb
+133,133,Allergy, Nut Intolerance
+134,134,Preference, Keto
+135,135,Preference, Dairy-Free
+136,136,Allergy, Soy Intolerance
+137,137,Preference, Low-Sodium
+138,138,Allergy, Gluten Intolerance
+139,139,Preference, High-Fiber
+140,140,Allergy, Egg Allergy
+141,141,Preference, Low-Glycemic
+142,142,Allergy, Lactose Intolerant
+143,143,Preference, Vegetarian
+144,144,Allergy, Nut Allergy
+145,145,Preference, Sugar-Free
+146,146,Preference, Paleo
+147,147,Allergy, Soy Allergy
+148,148,Preference, Whole30
+149,149,Allergy, Lactose Intolerant
+150,150,Preference, Low-Fat
+151,151,Preference, Vegetarian
+152,152,Preference, Vegan
+153,153,Allergy, Dairy Allergy
+154,154,Preference, Gluten-Free
+155,155,Preference, Paleo
+156,156,Preference, Keto
+157,157,Allergy, Nut Allergy
+158,158,Preference, Low-Carb
+159,159,Allergy, Shellfish Allergy
+160,160,Preference, Dairy-Free
+161,161,Preference, Whole30
+162,162,Allergy, Soy Intolerance
+163,163,Preference, Low-Sodium
+164,164,Allergy, Lactose Intolerant
+165,165,Preference, High-Protein
+166,166,Preference, Low-Fat
+167,167,Allergy, Gluten Intolerance
+168,168,Preference, Low-Glycemic
+169,169,Allergy, Nut Intolerance
+170,170,Preference, Vegan
+171,171,Preference, Paleo
+172,172,Allergy, Dairy Allergy
+173,173,Preference, Mediterranean Diet
+174,174,Allergy, Egg Allergy
+175,175,Preference, Sugar-Free
+176,176,Preference, Plant-Based
+177,177,Allergy, Soy Allergy
+178,178,Preference, Flexitarian
+179,179,Allergy, Wheat Allergy
+180,180,Preference, Anti-Inflammatory
+181,181,Allergy, Lactose Intolerant
+182,182,Preference, Organic
+183,183,Allergy, Nut Allergy
+184,184,Preference, Low-Carb
+185,185,Preference, Sugar-Free
+186,186,Allergy, Shellfish Allergy
+187,187,Preference, Low-Fat
+188,188,Allergy, Soy Intolerance
+189,189,Preference, Whole30
+190,190,Allergy, Gluten Intolerance
+191,191,Preference, Vegan
+192,192,Allergy, Nut Intolerance
+193,193,Preference, Keto
+194,194,Preference, Low-Sodium
+195,195,Allergy, Egg Allergy
+196,196,Preference, High-Protein
+197,197,Allergy, Dairy Allergy
+198,198,Preference, Low-Glycemic
+199,199,Allergy, Soy Allergy
+200,200,Preference, Plant-Based
+205,205,Allergy, Dairy Allergy
+220,220,Allergy, Soy Intolerance
+222,222,Preference, Vegetarian
+224,224,Preference, Vegetarian
+233,233,Allergy, Egg Allergy
